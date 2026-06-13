@@ -22,7 +22,12 @@ This project presents an interactive Retail Sales Analytics Dashboard developed 
 
 - Dynamic visualizations and KPI cards
 
-- Dashboard Preview
+
+
+ **Dashboard Preview**
+ 
+![Alt text](Dashboard_Screenshot.png)
+
 
 
 
