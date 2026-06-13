@@ -18,7 +18,7 @@ This project presents an interactive Retail Sales Analytics Dashboard developed 
 
 - Product category performance analysis
 
--Outlet performance comparison
+- Outlet performance comparison
 
 - Dynamic visualizations and KPI cards
 
