@@ -1,53 +1,64 @@
 **📊 Blinkit Sales Performance Dashboard | Power BI**
 
 **Project Overview**
+
 This project presents an interactive Retail Sales Analytics Dashboard developed using Power BI to analyze sales performance, customer preferences, product categories, and outlet operations based on a dataset containing over 8,500 retail records.
 
+
+
 **Key Features**
-Data cleaning and transformation using Power Query
 
-DAX measures for KPI calculations
+- Data cleaning and transformation using Power Query
 
-Interactive slicers and filters
+- DAX measures for KPI calculations
 
-Sales trend analysis
+- Interactive slicers and filters
 
-Product category performance analysis
+- Sales trend analysis
 
-Outlet performance comparison
+- Product category performance analysis
 
-Dynamic visualizations and KPI cards
+-Outlet performance comparison
 
-Dashboard Preview
+- Dynamic visualizations and KPI cards
+
+- Dashboard Preview
+
+
 
 **Key KPIs**
-Total Sales: $1.2M
 
-Average Sales: $141
+- Total Sales: $1.2M
 
-Number of Items: 8,523
+- Average Sales: $141
 
-Average Rating: 3.9
+- Number of Items: 8,523
+
+- Average Rating: 3.9
 
 
+ 
 **Technologies Used**
-Power BI
 
-Power Query
+- Power BI
 
-DAX
+- Power Query
 
-Data Modeling
+- DAX
 
-Data Visualization
+- Data Modeling
+
+- Data Visualization
+
 
 
 **Business Insights**
-Identified top-performing product categories.
 
-Compared sales performance across outlet types and sizes.
+- Identified top-performing product categories.
 
-Analyzed customer purchasing patterns across different location tiers.
+- Compared sales performance across outlet types and sizes.
 
-Evaluated long-term outlet establishment trends.
+- Analyzed customer purchasing patterns across different location tiers.
+
+- Evaluated long-term outlet establishment trends.
 
